@@ -35,6 +35,7 @@ def get_embeddings(text):
 
 # Main function
 def process_pdf_and_get_embeddings(pdf_path):
+    
     # Step 1: Extract text from the PDF
     pdf_text = extract_text_from_pdf(pdf_path)
     
