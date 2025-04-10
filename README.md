@@ -1,5 +1,5 @@
 # NLP
 # RAG
-# PDF Extraction
+# PDF Extractions
 # Text Generation
 # Models
