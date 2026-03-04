@@ -1,5 +1,5 @@
 # NLP (Natural Language Processing)
-# RAG Pipelines
+# RAG Pipeline
 # PDF Extractions
 # Text Generations
 # Models
