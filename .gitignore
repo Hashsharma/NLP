@@ -5,3 +5,4 @@ generator/*
 resource/*
 AdvancedTTS/*
 XTTS/*
+RAG/worddnet/vocabulary_data/*
